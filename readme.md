@@ -73,15 +73,7 @@ The PrivacySwap protocol utilizes several cutting-edge cryptographic techniques:
 Contract ID : ST2MN1S5S2N333QS284NVWKKHD45MQH789PRDK2Q.PrivacySwapDEX
 ![alt text](image.png)
 
-### Mainnet Deployment
-- **Main DEX Contract**: `[To be added after deployment]`
-- **Privacy Token Contract**: `[To be added after deployment]`
-- **Liquidity Pool Factory**: `[To be added after deployment]`
 
-### Testnet Deployment  
-- **Main DEX Contract**: `[To be added after testnet deployment]`
-- **Privacy Token Contract**: `[To be added after testnet deployment]`
-- **Liquidity Pool Factory**: `[To be added after testnet deployment]`
 
 ### Contract Verification
 All contracts will be verified on the Stacks Explorer with full source code transparency while maintaining operational privacy for users.
